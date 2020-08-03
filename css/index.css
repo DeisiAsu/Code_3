@@ -1,0 +1,23 @@
+    
+.cuadro1{
+     width: 500px;
+    height:500px;
+    background-image:url(../img/imgIndex/imagen2.1.png);
+        
+   display: inline-grid;
+    padding:140px;
+   color: #FFFFFF;
+    text-align: center;
+    margin-left: 59px;
+    margin-top: 90px;
+}
+.cuadro2{
+     width: 500px;
+    height:500px;
+   background-image:url(../img/imgIndex/estrellas.jpg);
+    display: inline-grid;
+     padding:140px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 80px;         
+}

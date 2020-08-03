@@ -1,0 +1,31 @@
+.texto{
+    margin-top: 25px;
+    margin-left: 45px;
+    color:gray;
+}
+.contenidos{
+    background-color:#ffffff;
+	width:90%;
+    margin:auto;
+	height:500px;
+    margin-top: 45px;
+}
+
+.contenido{
+    width: 198px;
+    height:200px;
+    background-image: url(../img/Ejercicio2/fondo.png);
+    margin-left: 10px;
+    display: inline-block;
+    text-align: center;
+    padding: 40px;
+    margin-top: 15px;
+     color: #ffffff;
+
+}
+.contenido img{
+    margin-left: 0px;
+    height: 100px;
+    
+}
+
